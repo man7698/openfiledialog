@@ -1,0 +1,15 @@
+F:\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\bin\Debug\picturebox e openfiledialog.exe
+F:\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\bin\Debug\picturebox e openfiledialog.pdb
+F:\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox_e_openfiledialog.Form1.resources
+F:\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox_e_openfiledialog.Properties.Resources.resources
+F:\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox e openfiledialog.csproj.GenerateResource.Cache
+F:\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox e openfiledialog.exe
+F:\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox e openfiledialog.pdb
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox e openfiledialog.exe
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox e openfiledialog.pdb
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\bin\Debug\picturebox e openfiledialog.exe
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\bin\Debug\picturebox e openfiledialog.pdb
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox e openfiledialog.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox_e_openfiledialog.Form1.resources
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox_e_openfiledialog.Properties.Resources.resources
+C:\Users\Matheus\Desktop\pendrive 3º ano\T.I\L.P\2ºBimestre\picturebox e openfiledialog\picturebox e openfiledialog\obj\x86\Debug\picturebox e openfiledialog.csproj.GenerateResource.Cache
